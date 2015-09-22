@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+     android:src="@drawable/ic_menu_key"/>
+
+<!-- From: file:/Users/marcelo/dev/android/ChatSecureAndroid_ulife/cachewordlib/src/main/res/drawable/cacheword_notification_icon.xml --><!-- From: file:/Users/marcelo/dev/android/ChatSecureAndroid_ulife/chatSecure/build/intermediates/exploded-aar/ChatSecureAndroid_ulife/cachewordlib/unspecified/res/drawable/cacheword_notification_icon.xml -->

@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+   <solid android:color="#ffffff" />
+   <stroke android:width="1dip" android:color="#cdcdcd"/>
+</shape><!-- From: file:/Users/marcelo/dev/android/ChatSecureAndroid_ulife/chatSecure/src/main/res/drawable/background_plaintext.xml -->

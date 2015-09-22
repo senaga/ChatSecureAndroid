@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChatSecureAndroid_ulife.iml" filepath="$PROJECT_DIR$/ChatSecureAndroid_ulife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidPinning/androidPinning.iml" filepath="$PROJECT_DIR$/androidPinning/androidPinning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cachewordlib/cachewordlib.iml" filepath="$PROJECT_DIR$/cachewordlib/cachewordlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatSecure/chatSecure.iml" filepath="$PROJECT_DIR$/chatSecure/chatSecure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memorizingTrustManager/memorizingTrustManager.iml" filepath="$PROJECT_DIR$/memorizingTrustManager/memorizingTrustManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tibetanTextLibrary/tibetanTextLibrary.iml" filepath="$PROJECT_DIR$/tibetanTextLibrary/tibetanTextLibrary.iml" />
+    </modules>
+  </component>
+</project>
